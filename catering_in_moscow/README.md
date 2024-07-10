@@ -10,7 +10,7 @@
 - Исследовать рынок Москвы, найти интересные особенности среди заведений общественного питания.
 - Проанализировать информацию о кофейнях и дать рекомендации, которые в будущем помогут инвесторам в выборе подходящего места для открытия своего заведения.
  
-[Просмотр проекта в html](https://rusetska.github.io/Portfolio/catering_in_moscow/catering_in_moscow.html)
+[Проект в html](https://rusetska.github.io/Portfolio/catering_in_moscow/catering_in_moscow.html)
 #### Навыки и инструменты
 ---
 - Pandas
