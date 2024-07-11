@@ -1,5 +1,6 @@
 ### Анализ заведений общественного питания Москвы
-[html](https://rusetska.github.io/Portfolio/catering_in_moscow/catering_in_moscow.html) [ipynb](https://github.com/rusetska/Portfolio/blob/07d03fd4e3eba46c47dfb339c44e1305a83a7528/catering_in_moscow/catering_in_moscow.ipynb)
+[html](https://rusetska.github.io/Portfolio/catering_in_moscow/catering_in_moscow.html) 
+[ipynb](https://github.com/rusetska/Portfolio/blob/07d03fd4e3eba46c47dfb339c44e1305a83a7528/catering_in_moscow/catering_in_moscow.ipynb)
 #### Описание проекта
 ---
 Инвесторы из фонда «Shut Up and Take My Money» решили попробовать себя в новой сфере — и открыть заведение общественного питания в Москве.
