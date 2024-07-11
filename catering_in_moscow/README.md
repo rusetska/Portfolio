@@ -13,11 +13,11 @@
 [Проект в html](https://rusetska.github.io/Portfolio/catering_in_moscow/catering_in_moscow.html)
 #### Навыки и инструменты
 ---
-- Pandas
-- Python
-- Matplotlib
-- Seaborn
-- Plotly
+- **pandas**
+- **python**
+- **matplotlib**
+- **seaborn**
+- **plotly**
 
 #### Общий вывод
 ---
