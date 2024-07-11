@@ -11,12 +11,12 @@
 [Презентация в Tableau Public](https://public.tableau.com/app/profile/helen.rusetska/viz/-_17092487211510/presentation)
 #### Навыки и инструменты
 ---
-- Pandas
-- Python
-- Numpy
-- Matplotlib
-- Seaborn
-- Tableau
+- **pandas**
+- **python**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **Tableau**
 
 #### Общий вывод
 ---
